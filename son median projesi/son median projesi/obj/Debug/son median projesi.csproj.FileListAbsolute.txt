@@ -1,0 +1,11 @@
+C:\Users\Melih\source\repos\son median projesi\son median projesi\bin\Debug\son median projesi.exe.config
+C:\Users\Melih\source\repos\son median projesi\son median projesi\bin\Debug\son median projesi.exe
+C:\Users\Melih\source\repos\son median projesi\son median projesi\bin\Debug\son median projesi.pdb
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son median projesi.csproj.AssemblyReference.cache
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son median projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son_median_projesi.Properties.Resources.resources
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son median projesi.csproj.GenerateResource.cache
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son median projesi.csproj.CoreCompileInputs.cache
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son median projesi.exe
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son median projesi.pdb
+C:\Users\Melih\source\repos\son median projesi\son median projesi\obj\Debug\son_median_projesi.MedianFilter.resources
